@@ -22,5 +22,9 @@
 
 
 ### 링크 link
-[네이버](naver.com)
-[구글](google.com)
+[네이버](https://www.naver.com/)
+[구글](https://www.google.com/)
+
+[네이버]<https://www.naver.com/>
+[구글]<https://www.google.com/>
+
